@@ -1,4 +1,2 @@
 # logo
-ForthHub logotype
-
-Logotype kindly drawn and donated to ForthHub by Zeila Dell Arte!
+ForthHub logotype, drawn by Zeila Dell Arte!
